@@ -10,7 +10,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
-    background-color: #F9EBEA;
+    background-color: #EFDDE3;
 }
 
 img {
@@ -40,7 +40,7 @@ img {
 }
 
 .logo {
-    color: #ff6f61;
+    color: #E2BBA9;
     font-size: 25px;
     font-weight: 800;
     text-transform: uppercase;
@@ -54,7 +54,7 @@ img {
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: #f5b7b1;
+    color: #FB93AC;
     display: block;
     font-weight: 600;
 }
@@ -77,6 +77,8 @@ img {
     display: none;
 }
 
+
+
 .contenido-header {
     display: flex;
     justify-content: space-between;
@@ -88,11 +90,11 @@ img {
 }
 
 .header-txt h1 {
-    color: #f9c46d;
-    font-size: 55px;
+    color: #B36985;
+    font-size: 45px;
     line-height: 1.2;
+    margin-top: 90px;
     margin-bottom: 30px;
-    padding: 20px 0 0 0;
 }
 
 .header-txt p {
@@ -163,7 +165,7 @@ img {
 
 .calidad-txt h2 {
     font-size: 35px;
-    color: #caa7d8;
+    color: #DC2C6C;
     margin-bottom: 20px;
 }
 
@@ -178,7 +180,7 @@ img {
 
 .beneficios-txt {
     margin-right: 50px;
-    margin-top: 50px;
+    margin-top: 35px;
     flex-basis: 50%;
 }
 
@@ -225,13 +227,13 @@ img {
 }
 
 .descubre-txt {
-    margin-top: 70px;
+    margin-top: 40px;
     flex-basis: 50%;
     margin-right: 60px;
 }
 
 .descubre-txt h2 {
-    color: #d79743;
+    color: #DC2C6C;
     font-size: 35px;
     margin-bottom: 15px;
 }
@@ -337,3 +339,4 @@ button {
 .link a:hover {
     color: #c2977a;
 }
+
