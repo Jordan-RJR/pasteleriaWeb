@@ -77,8 +77,6 @@ img {
     display: none;
 }
 
-
-
 .contenido-header {
     display: flex;
     justify-content: space-between;
@@ -146,16 +144,13 @@ img {
 .calidad-img {
     flex-basis: 50%;
 }
-
 .calidad-img img {
-    width: 650px;
-    height: 450px;
+    width: 90%;
+    height: 350px;
 }
 
 .calidad-txt {
     flex-basis: 50%;
-    margin-left: 50px;
-    margin-top: 60px;
 }
 
 .calidad-txt span {
@@ -185,7 +180,7 @@ img {
 }
 
 .beneficios-txt h2 {
-    color: #f4a49b;
+    color: #000000;
     font-size: 35px;
     margin-bottom: 15px;
 }
@@ -227,7 +222,7 @@ img {
 }
 
 .descubre-txt {
-    margin-top: 40px;
+    margin-top: 60px;
     flex-basis: 50%;
     margin-right: 60px;
 }
@@ -277,6 +272,7 @@ input {
 button {
     border: none;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .form p {
